@@ -36,7 +36,7 @@ apt-get install meu=software
 apt-get install dependencia2
 ```
 Para baixar nossa ferramenta de diagnóstico [Clique aqui](https://site.com).
-
+Ou acesse https://outrosite.com
 
 
 
