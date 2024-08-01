@@ -42,5 +42,5 @@ Ou acesse https://outrosite.com
 <br>
 Para acessar a instalação avançada [Clique aqui](INSTALACAO.md).
 
-
+Clique duas vezes no arquivo `setup.py`
 
