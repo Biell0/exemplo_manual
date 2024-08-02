@@ -44,4 +44,4 @@ Para acessar a instalação avançada [Clique aqui](INSTALACAO.md).
 
 Clique duas vezes no arquivo `setup.py`
 
-<img src="https://s2-gshow.glbimg.com/lpWB_yug9YiYl3GUg5JsX6hxwhg=/0x0:1288x727/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2022/8/A/MjyixqQ0uBCpd7ADfV7g/eduardo-sterblitch-de-freddie-mercury-prateado.jpg" wdigth
+<img src="https://s2-gshow.glbimg.com/lpWB_yug9YiYl3GUg5JsX6hxwhg=/0x0:1288x727/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2022/8/A/MjyixqQ0uBCpd7ADfV7g/eduardo-sterblitch-de-freddie-mercury-prateado.jpg" widgth 
